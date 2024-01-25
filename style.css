@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(86, 55%, 84%);
+}
+.container{
+    max-width: 1000px;
+    background-color: skyblue;
+    margin: 0 auto;
+    padding: 20px;
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5{
+    color: #11999e;
+}
+.header-contect{
+    float: right;
+    padding: 30px;
+    
+}
+.header-contect a{
+    text-decoration: none;
+    column-rule: red;
+    font-weight: bold;
+
+}  
+
+.header-contect a:hover{
+ text-decoration: underline;
+ color: red;
+}
+.div-clear{
+    clear: both;
+}
+
+
+hr{
+    border: 1px solid green;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+  
+}
+
+
+
+
+#personal-section{
+    
+}
+
+.content{
+    margin-bottom: 30px;
+
+}
+
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+
+.right-dev{
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+
+
+#personal-section1{
+    
+}
+
+.content1{
+    margin-bottom: 30px;
+
+}
+
+.left-div1{
+    width: 30%;
+    float: left;
+
+}
+
+.right-dev1{
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+#personal-section2{
+    
+}
+
+.content2{
+    margin-bottom: 30px;
+
+}
+
+.left-div2{
+    width: 30%;
+    float: left;
+
+}
+
+.right-dev2{
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+
+#personal-section3{
+    
+}
+
+.content3{
+    margin-bottom: 30px;
+
+}
+
+.left-div3{
+    width: 30%;
+    float: left;
+
+}
+
+.right-dev3{
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.div-clear{
+    clear: both;}
